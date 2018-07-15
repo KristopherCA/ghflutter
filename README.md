@@ -1,8 +1,1 @@
-# ghflutter
-
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A Android and iOS app written in the Flutter framework. This app bwas created with the help of a tutorial found at: https://www.raywenderlich.com/188257/getting-started-with-flutter. This app uses the Github API to create a list of members with leading icons and navigates to a second screen on tap whichdisplays the users avatar.
